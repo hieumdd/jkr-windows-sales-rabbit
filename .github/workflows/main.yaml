@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  FUNCTION_NAME: jkr-windớ-sales-rabbit
+  FUNCTION_NAME: jkr-windows-sales-rabbit
   PROJECT_ID: jkr-windows
   GCP_SA: etl-262@jkr-windows.iam.gserviceaccount.com
 
